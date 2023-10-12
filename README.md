@@ -8,6 +8,15 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/daclip-uir-colab/blob/main/daclip_uir_gradio_colab.ipynb) | daclip_uir_gradio_colab
 
+## ⚠ Important
+From https://github.com/Algolzw/daclip-uir#notice <br />
+
+#### Notice!!
+In testing we found that the current pretrained model is still difficult to process some real-world images 🙁 which might have distribution shifts with our training dataset (captured from different devices or with different resolutions or degradations). We regard it as a future work and will try to make our model more practical!
+
+We also encourage users who are interested in our work to train their own models with larger dataset and more degradation types.
+
+
 ## Main Repo
 https://github.com/Algolzw/daclip-uir
 
